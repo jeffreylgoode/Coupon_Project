@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a29ecc4d-6a45-45a8-af79-b9c879b3dc1b" name="Changes" comment="I modified the Coupon_Project file to analyze the columns will null data, dropped the Car column, and dropped null values from the remaining columns." />
+    <list default="true" id="a29ecc4d-6a45-45a8-af79-b9c879b3dc1b" name="Changes" comment="beginning to plot the data now.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coupon_Project.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Coupon_Project.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1765662973972</updated>
-      <workItem from="1765662974985" duration="12076000" />
+      <workItem from="1765662974985" duration="18901000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit to get the project setup.">
       <option name="closed" value="true" />
@@ -131,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765721565574</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="beginning to plot the data now.">
+      <option name="closed" value="true" />
+      <created>1765723621369</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1765723621369</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,6 +154,7 @@
     <MESSAGE value="I modified the readme file." />
     <MESSAGE value="Added original csv and prompt files, brought in work to date on the jupyter assigmnent file." />
     <MESSAGE value="I modified the Coupon_Project file to analyze the columns will null data, dropped the Car column, and dropped null values from the remaining columns." />
-    <option name="LAST_COMMIT_MESSAGE" value="I modified the Coupon_Project file to analyze the columns will null data, dropped the Car column, and dropped null values from the remaining columns." />
+    <MESSAGE value="beginning to plot the data now." />
+    <option name="LAST_COMMIT_MESSAGE" value="beginning to plot the data now." />
   </component>
 </project>
