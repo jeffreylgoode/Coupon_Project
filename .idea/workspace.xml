@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a29ecc4d-6a45-45a8-af79-b9c879b3dc1b" name="Changes" comment="beginning to plot the data now.">
+    <list default="true" id="a29ecc4d-6a45-45a8-af79-b9c879b3dc1b" name="Changes" comment="Added coupon acceptance to coupon categories.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Coupon_Project.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Coupon_Project.ipynb" afterDir="false" />
     </list>
@@ -84,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1765662973972</updated>
-      <workItem from="1765662974985" duration="18901000" />
+      <workItem from="1765662974985" duration="19752000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit to get the project setup.">
       <option name="closed" value="true" />
@@ -142,7 +142,23 @@
       <option name="project" value="LOCAL" />
       <updated>1765723621369</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Lot's of changes due to experimation with bar plots and colors.">
+      <option name="closed" value="true" />
+      <created>1765750595232</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1765750595232</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added coupon acceptance to coupon categories.">
+      <option name="closed" value="true" />
+      <created>1765751107242</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1765751107242</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,6 +171,8 @@
     <MESSAGE value="Added original csv and prompt files, brought in work to date on the jupyter assigmnent file." />
     <MESSAGE value="I modified the Coupon_Project file to analyze the columns will null data, dropped the Car column, and dropped null values from the remaining columns." />
     <MESSAGE value="beginning to plot the data now." />
-    <option name="LAST_COMMIT_MESSAGE" value="beginning to plot the data now." />
+    <MESSAGE value="Lot's of changes due to experimation with bar plots and colors." />
+    <MESSAGE value="Added coupon acceptance to coupon categories." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added coupon acceptance to coupon categories." />
   </component>
 </project>
