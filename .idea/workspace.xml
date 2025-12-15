@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a29ecc4d-6a45-45a8-af79-b9c879b3dc1b" name="Changes" comment="Added acceptance rate for more than 1 trip per month and over 25">
+    <list default="true" id="a29ecc4d-6a45-45a8-af79-b9c879b3dc1b" name="Changes" comment="Next stop, complete number 4 in bar coupons.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Coupon_Project.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Coupon_Project.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1765662973972</updated>
-      <workItem from="1765662974985" duration="30779000" />
+      <workItem from="1765662974985" duration="35425000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit to get the project setup.">
       <option name="closed" value="true" />
@@ -189,7 +190,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765764640014</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Next stop, complete number 4 in bar coupons.">
+      <option name="closed" value="true" />
+      <created>1765765267469</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1765765267469</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -208,6 +217,7 @@
     <MESSAGE value="Now adding comments and code for bar coupons." />
     <MESSAGE value="first 3 groups of Bar values have been calculated, with acceptance rate." />
     <MESSAGE value="Added acceptance rate for more than 1 trip per month and over 25" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added acceptance rate for more than 1 trip per month and over 25" />
+    <MESSAGE value="Next stop, complete number 4 in bar coupons." />
+    <option name="LAST_COMMIT_MESSAGE" value="Next stop, complete number 4 in bar coupons." />
   </component>
 </project>
