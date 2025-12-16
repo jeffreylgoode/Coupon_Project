@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a29ecc4d-6a45-45a8-af79-b9c879b3dc1b" name="Changes" comment="Added a summary acceptance rate plot by coupon type before the bar analysis section.">
+    <list default="true" id="a29ecc4d-6a45-45a8-af79-b9c879b3dc1b" name="Changes" comment="More edits to improve the readability of the plot.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Coupon_Project.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Coupon_Project.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/acceptance_rates.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/coupon_acceptance_rates.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/coupon_acceptance_rates.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +86,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1765662973972</updated>
-      <workItem from="1765662974985" duration="58505000" />
+      <workItem from="1765662974985" duration="61384000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit to get the project setup.">
       <option name="closed" value="true" />
@@ -286,7 +288,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765889545177</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="More edits to improve the readability of the plot.">
+      <option name="closed" value="true" />
+      <created>1765892105461</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1765892105461</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -315,6 +325,7 @@
     <MESSAGE value="Updating the project notebook with findings." />
     <MESSAGE value="Deleted some extraneous files, and moved the original assignment notebook to the data folder." />
     <MESSAGE value="Added a summary acceptance rate plot by coupon type before the bar analysis section." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added a summary acceptance rate plot by coupon type before the bar analysis section." />
+    <MESSAGE value="More edits to improve the readability of the plot." />
+    <option name="LAST_COMMIT_MESSAGE" value="More edits to improve the readability of the plot." />
   </component>
 </project>
