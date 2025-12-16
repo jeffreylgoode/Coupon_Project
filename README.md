@@ -2,7 +2,7 @@ This project is named Coupon_Project and is an analysis of consumer behavior reg
 
 The corresponding project Jupyter note can be found here, [Coupon Project Notebook](Coupon_Project.ipynb).
 
-The data analyzed can be found here as CSV files along with the original notebook that was part of the dataset provided.  [Coupon Project Data](data).
+The data analyzed can be found here as well as the original and edited data CSV files along with the original notebook that was part of the dataset provided.  [Coupon Project Data](data). Plots used in the notebook findings section can also be found here. 
 
 Summary of Findings.
 **The question is will the customer accept the coupon?**  The answer is that a customer will accept a coupon **56.93%** of the time.
