@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a29ecc4d-6a45-45a8-af79-b9c879b3dc1b" name="Changes" comment="Updated with start of independent analysis of the coffee house coupon.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Coupon_Project.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Coupon_Project.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="a29ecc4d-6a45-45a8-af79-b9c879b3dc1b" name="Changes" comment="Another readme.md file update." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1765662973972</updated>
-      <workItem from="1765662974985" duration="65676000" />
+      <workItem from="1765662974985" duration="66227000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit to get the project setup.">
       <option name="closed" value="true" />
@@ -303,14 +299,29 @@
       <option name="project" value="LOCAL" />
       <updated>1765908240924</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Updated findings and readme.md, putting on finishing touches.">
+      <option name="closed" value="true" />
+      <created>1765912359466</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1765912359466</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Another readme.md file update.">
+      <option name="closed" value="true" />
+      <created>1765912492621</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1765912492621</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Initial commit to get the project setup." />
     <MESSAGE value="Initial commit." />
     <MESSAGE value="I modified the readme file." />
     <MESSAGE value="Added original csv and prompt files, brought in work to date on the jupyter assigmnent file." />
@@ -334,6 +345,8 @@
     <MESSAGE value="Added a summary acceptance rate plot by coupon type before the bar analysis section." />
     <MESSAGE value="More edits to improve the readability of the plot." />
     <MESSAGE value="Updated with start of independent analysis of the coffee house coupon." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated with start of independent analysis of the coffee house coupon." />
+    <MESSAGE value="Updated findings and readme.md, putting on finishing touches." />
+    <MESSAGE value="Another readme.md file update." />
+    <option name="LAST_COMMIT_MESSAGE" value="Another readme.md file update." />
   </component>
 </project>
