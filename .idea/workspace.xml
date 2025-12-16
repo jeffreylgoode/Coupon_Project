@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a29ecc4d-6a45-45a8-af79-b9c879b3dc1b" name="Changes" comment="Deleted some extraneous files, and moved the original assignment notebook to the data folder.">
+    <list default="true" id="a29ecc4d-6a45-45a8-af79-b9c879b3dc1b" name="Changes" comment="Added a summary acceptance rate plot by coupon type before the bar analysis section.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Coupon_Project.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Coupon_Project.ipynb" afterDir="false" />
     </list>
@@ -84,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1765662973972</updated>
-      <workItem from="1765662974985" duration="56769000" />
+      <workItem from="1765662974985" duration="58505000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit to get the project setup.">
       <option name="closed" value="true" />
@@ -278,7 +278,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765854457581</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Added a summary acceptance rate plot by coupon type before the bar analysis section.">
+      <option name="closed" value="true" />
+      <created>1765889545177</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1765889545177</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -306,6 +314,7 @@
     <MESSAGE value="Updated the readme.md file to add link to data." />
     <MESSAGE value="Updating the project notebook with findings." />
     <MESSAGE value="Deleted some extraneous files, and moved the original assignment notebook to the data folder." />
-    <option name="LAST_COMMIT_MESSAGE" value="Deleted some extraneous files, and moved the original assignment notebook to the data folder." />
+    <MESSAGE value="Added a summary acceptance rate plot by coupon type before the bar analysis section." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added a summary acceptance rate plot by coupon type before the bar analysis section." />
   </component>
 </project>
