@@ -4,6 +4,7 @@ The corresponding project Jupyter note can be found here, [Coupon Project Notebo
 
 The data analyzed can be found here as CSV files along with the original notebook that was part of the dataset provided.  [Coupon Project Data](data).
 
-Summary of Findings
-Will the customer accept the coupon?  
+Summary of Findings.
+**The question is will the customer accept the coupon?**  The answer is that a customer will accept a coupon **56.93%** of the time.
 
+The findings detail can be found at the top of the first page of the Coupon_Project notebook referenced above as well as recommended next steps for further analysis.  
