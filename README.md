@@ -2,7 +2,7 @@ This project is named Coupon_Project and is an analysis of consumer behavior reg
 
 The corresponding project Jupyter note can be found here, [Coupon Project Notebook](Coupon_Project.ipynb).
 
-The project data what was analyzed can be found here, [Coupon Project Data](Data/).
+The project data what was analyzed can be found here, [Coupon Project Data](Data).
 
 
 
